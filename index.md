@@ -117,7 +117,8 @@ If you find our work useful in your research, please consider citing our paper:
 @inproceedings{seets2021motion,
   title={Motion Adaptive Deblurring with Single-Photon Cameras},
   author={Seets, Trevor and Ingle, Atul and Laurenzis, Martin and Velten, Andreas},
-  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
   pages={1945--1954},
   year={2021}
 }
+
